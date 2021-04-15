@@ -1,5 +1,5 @@
 ***********************************************************
---Comando para conexão com Banco de Dados
+--Comando para conexao com Banco de Dados
 ***********************************************************
 
 -----------------------------------------------------------
@@ -79,7 +79,7 @@ alter table t2 add foreign key (codigo_t1) references t1(codigo_t1);
 --Comando para excluir uma foreign key
 alter table t2 drop foreign key t2_ibfk_1(nome da foreign key )
 'information_schema.TABLE_CONSTRAINTS'
-'drop index t2_ibfk_1 on t2' -- temos que remover o índice criado automaticamente pelo MySQL
+'drop index t2_ibfk_1 on t2' -- temos que remover o indice criado automaticamente pelo MySQL
 
 -----------------------------------------------------------
 
@@ -104,7 +104,7 @@ alter table pessoa drop column data_nascimento
 
 -----------------------------------------------------------
 
---comando para a alteracao do nome e tipo de dado da coluna(para a mudança de tipo de dado precisa alterar o nome com change)
+--comando para a alteracao do nome e tipo de dado da coluna(para a mudanca de tipo de dado precisa alterar o nome com change)
 alter table pessoa change idade idadenova int
 
 -----------------------------------------------------------
