@@ -5,12 +5,12 @@
 -----------------------------------------------------------
 
 --Comando para conectar
-mysql -u root -p (-u = usuário do banco de dados, -p = senha do banco de dados)
+mysql -u root -p (-u = usuario do banco de dados, -p = senha do banco de dados)
 
 -----------------------------------------------------------
 
 ***********************************************************
---Comando para a criação das estruturas em Banco de Dados
+--Comando para a criacao das estruturas em Banco de Dados
 ***********************************************************
 
 -----------------------------------------------------------
@@ -33,11 +33,11 @@ show tables;
 -----------------------------------------------------------
 
 ***********************************************************
---Comando para criação de tabela
+--Comando para criacao de tabela
 ***********************************************************
 
 -----------------------------------------------------------
---Comando de criação da tabela de exemplo pessoa
+--Comando de criacao da tabela de exemplo pessoa
 CREATE TABLE pessoa (
   cpf      CHAR(11)    NOT NULL,
   nome     VARCHAR(50) NOT NULL,
@@ -49,31 +49,31 @@ CREATE TABLE pessoa (
 );
 DESCRIBE pessoa;
 ***********************************************************
---Comando para a alteração das estruturas em Banco de Dados
+--Comando para a alteracao das estruturas em Banco de Dados
 ***********************************************************
 
 -----------------------------------------------------------
 
---Comando para a alteração do nome da tabela.
+--Comando para a alteracao do nome da tabela.
 alter table <nome_da_tabela> rename to <novo_nome_da_tabela>;
 --Exemplo
 alter table pessoa rename to pessoas
 
 -----------------------------------------------------------
 
---comando para a inclusão da primary key na tabela pessoa
+--comando para a inclusao da primary key na tabela pessoa
 alter table <nome_da_tabela> add primary key(<campo>)
 --Exemplo
 alter table pessoa add primary key(cpf)
 
 --comando para excluir primary key
-alter table <nome_da_tabela> drop primary key nome da chave primária
+alter table <nome_da_tabela> drop primary key nome da chave primaria
 --Exemplo
 alter table pessoa drop primary key; 
 
 -----------------------------------------------------------
 
---Comando para a inclusão de foreign key
+--Comando para a inclusao de foreign key
 alter table t2 add foreign key (codigo_t1) references t1(codigo_t1);
 
 --Comando para excluir uma foreign key
@@ -104,12 +104,12 @@ alter table pessoa drop column data_nascimento
 
 -----------------------------------------------------------
 
---comando para a alteração do nome e tipo de dado da coluna(para a mudança de tipo de dado precisa alterar o nome com change)
+--comando para a alteracao do nome e tipo de dado da coluna(para a mudança de tipo de dado precisa alterar o nome com change)
 alter table pessoa change idade idadenova int
 
 -----------------------------------------------------------
 
---comando para a alteração de todas as caracteisticas das colunas
+--comando para a alteracao de todas as caracteisticas das colunas
 alter table pessoa modify idade int not null
 
 -----------------------------------------------------------
