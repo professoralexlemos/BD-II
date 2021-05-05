@@ -1,0 +1,9 @@
+1) - Desenvolva o comando necessário para realizar o cadastro de registros nas tabelas [veiculo, marca, categoria, proprietario, municipio e estado].
+
+2) - Desenvolva o comando necessário para realizar a alterção de um campo nas tabelas [veiculo, marca, categoria].
+
+3) - Desenvolva o comando necessário para realizar a alterção de dois campos nas tabelas [proprietario, municipio e estado].
+
+4) - Desenvolva os comandos necessários para realizar a pesquisa de todos os dados das tabelas [veiculo, marca, categoria, proprietario, municipio e estado].
+
+5) - Desenvolva o comando necessário para remover um registro na tabela proprietario, municipio e estado.
