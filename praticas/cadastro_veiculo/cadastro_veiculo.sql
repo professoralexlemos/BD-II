@@ -1,8 +1,8 @@
-DROP DATABASE IF EXISTS cadastro_veiculo_lixo;
+DROP DATABASE IF EXISTS cadastro_veiculo;
 
-CREATE DATABASE if NOT EXISTS cadastro_veiculo_lixo;
+CREATE DATABASE if NOT EXISTS cadastro_veiculo;
 
-USE cadastro_veiculo_lixo;
+USE cadastro_veiculo;
 
 CREATE TABLE categoria (
   idCategoria int(11) NOT NULL DEFAULT '0',
