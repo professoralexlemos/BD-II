@@ -1,0 +1,28 @@
+01) - Desenvolva o comando necessário para pesquisar o nome o preço de venda e a data de lançamento do cd
+      que possui código do cd e o código da gravadora igual a um.
+
+02) - Desenvolva o comando necessário para pesquisar o nome o preço de venda e a data de lançamento do cd's que foram produzidos pela gravadora que possui o código da gravadora igual dois.
+ 
+03) - Desenvolva o comando necessário para pesquisar todos os dados da tabela autor cujo seu nome comece com a letra (Caractere) a.
+
+04) - Desenvolva o comando necessário para pesquisar todos os dados da tabela autor cujo seu nome contenha a sequência de letras (Caracteres) an.
+
+05) - Desenvolva o comando necessário para pesquisar todos os dados da tabela autor cujo seu nome termine com a letra (Caracteres) s.
+
+06) - Desenvolva o comando necessário para pesquisar todos os campos da tabela música que o código da música 
+      esteja no intervalo de um a dez.
+
+07) - Desenvolva o comando necessário para pesquisar todos os campos da tabela música que o código da
+      música seja 1, 5, 10 e 15.
+
+08) - Desenvolva o comando necessário para pesquisar todos os campos da tabela cd onde a data de lançamento seja maior que 01/01/1998.
+
+09) - Desenvolva o comando necessário para pesquisar todos os campos da tabela cd onde a data de lançamento 
+      esteja no intervalo entre 01/01/1998 e 01/05/2001.
+
+10) - Desenvolva o comando necessário para pesquisar todos os campos da tabela cd onde a data de lançamento 
+      esteja no intervalo entre 01/01/1990 e a data de hoje.
+
+11) - Desenvolva o comando necessário para pesquisar todos os campos da tabela cd onde a data de lançamento 
+      esteja no intervalo entre 01/01/1990 e a data de hoje
+      e o código do cd esteja entre um e sete e o código da gravadora esteja entre um e dois.
