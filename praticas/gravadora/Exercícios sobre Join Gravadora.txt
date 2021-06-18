@@ -1,0 +1,32 @@
+Link para envio da atividade:
+https://www.dropbox.com/request/arYvL9aAoCpQ8zgJ6lqF
+
+1) - Desenvolva o comando necessário para pesquisar os seguintes dados, da tabela gravadora, pesquisar o código, o nome e o endereóo,
+     da tabela cd, pesquisar o código, o nome, o preço de venda e data de lançamento, dos cd's que tenham o preço de venda entre R$ 9,00 e R$ 15,00
+     e data de lançamento entre 01/01/2001 e data atual, ordenado pelo nome da gravadora de forma ascendente.
+
+2) - Desenvolva o comando necessário para pesquisar todos os dados das tabelas cd e cd_categoria onde o cd indicado seja 1 ou 2 ou 3 e
+     o menor preço da tabela cd_categoria seja maior que R$ 5.00 e maior preço da tabela cd_categoria seja menor que R$ 15,00.
+
+3) - Desenvolva o comando necessário para pesquisar o nome do autor e o nome da musica produzida por ele, ordenado pelo nome do autor de forma descendente.
+
+4) - Desenvolva o comando necessário para realizar o pesquisa dos seguintes dados: código da gravadora, nome da gravadora, código do cd, nome do cd e preço de venda do cd,
+das gravadoras que tenham endereço e contato cadastrados e o preço de venda do cd esteja entre 10.00 e 15.00 reais.
+
+5) - Desenvolva o comando necessário para realizar a pesquisa dos seguintes campos da tabela CD o código e o nome e da tabela CD_CATEGORIA e menor preço e o maior preço.
+
+6) - Desenvolva o comando necessário para realizar uma pesquisar e obtenha os seguintes dados, da tabela GRAVADORA código, nome e da tabela CD código, nome e data de lançamento e da tabela
+CD_CATEGORIA o menor preço e o maior preço onde a data de lançamento do cd esteja entre 01/01/1995 a 10/05/1999 e o preço de venda seja maior que 10.00 reais.
+
+7) - Desenvolva o comando necessário para realizar a pesquisa dos seguintes campos, da tabela CD código, nome e da tabela FAIXA numero da faixa e da tabela MUSICA nome e a duração da musica
+dos cd''s que possuem os códigos 1,3,5,7 e a data de lançamento esteja no intervalo entre 01/01/2000 a data atual.
+
+8) - Desenvolva o comando necessário para realizar a pesquisa do nome do autor e o nome das musicas dos autores que seu nome comece com o caractere 'A'.
+
+9) - Desenvolva o comando necessário para pesquisar os seguintes dados, o nome do cd, preço de venda e a data de lançamento, o numero da faixa, o nome da musica e a duração e o nome do autor
+dos cd''s que tenham o código 2,4,6 e data de lançamento seja maior que 01/01/1999 e preço de venda do cd esteja entre 10.00 e 17.00 reais.
+
+10) - Desenvolva o comando necessário para pesquisar todos os campos de todas as tabelas existentes no banco de dados gravadora.
+
+11) - Desenvolva o comando necessário para realizar a seguinte pesquisa, da tabela CD, o código e o nome, da tabela GRAVADORA, o nome e o código de todas as gravadoras(mesmo que gravadora não tenha produzido cd) onde
+o endereço ou telefone ou contato ou a url esteja preenchido.
