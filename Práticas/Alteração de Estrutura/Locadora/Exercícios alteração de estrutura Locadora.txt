@@ -1,0 +1,23 @@
+Exercícios para alteração de estruturas do Banco de Dados para a Locadora de Automóveis.
+
+01) - Na tabela Cliente, adicione o campo (atributo) com o cpf_cliente, tipo de dados texto com 11 caracteres obrigatório logo abaixo do campo codigo_cliente.
+
+02) - Na tabela Cliente, altere o nome do campo numero_cnh para numero_cnh_cliente.
+
+03) - Na tabela Aluguel altere o tipo de dado dos campos valor_diaria e valor_aluguel para DECIMAL(12,4).
+
+05) - Nas tabelas Modelo e Cor adicione o campo data_cadastro datetime obrigatório e o campo data_alteração datetime não obrigatório, estes campos devem ser os últimos campos da tabela.
+
+06) - Crie uma tabela chamada tipo_telefone com os seguintes campos:
+	 id_tipo_telefone inteiro obrigatório;
+	 descricao_tipo_telefone varchar(50) obrigatório.
+	 
+07) - Altere a tabela tipo_telefone adicionando a chave primária na tabela com o campo id_tipo_telefone.
+
+08) - Altere a tabela telefone adicionando o campo id_tipo_telefone inteiro e obrigatório.
+
+09) - Altere a tabela telefone adicionando a chave estrangeria que será o campo id_tipo_telefone que faz referencia a tabela tipo_telefone.
+
+10) - Na tabela Carro altere os campos de placa e ano para campos obrigatórios.
+
+11) - Na tabela Modelo remova o campo referente a taxa.
