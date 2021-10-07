@@ -1,0 +1,47 @@
+Exercícios de CRUD gravadora
+
+1) - Desenvolva o comando necessário para cadastrar 3 registros na tabela autor.
+
+2) - Desenvolva o comando necessário para cadastrar 3 registros na tabela musica.
+
+3) - Desenvolva o comando necessário para cadastrar 3 registros na tabela gravadora.
+
+4) - Desenvolva o comando necessário para cadastrar 3 registros na tabela cd.
+
+5) - Desenvolva o comando necessário para cadastrar 3 registros na tabela faixa.
+
+6) - Desenvolva o comando necessário para cadastrar 3 registros na tabela musica_autor.
+
+7) - Desenvolva o comando necessário para cadastrar 3 registros na tabela cd_categoria.
+	
+8) - Desenvolva o comando necessário para alterar um registro na tabela autor.
+
+9) - Desenvolva o comando necessário para alterar um registro na tabela musica.
+
+10) - Desenvolva o comando necessário para alterar um registro na tabela gravadora.
+
+11) - Desenvolva o comando necessário para alterar um registro na tabela cd.
+
+12) - Desenvolva o comando necessário para alterar todas as informações da tabela faixa.
+
+13) - Desenvolva o comando necessário para alterar todas as informações da tabela cd_categoria.
+
+14) - Desenvolva o comando necessário para selecionar todas as informações da tabela autor.
+
+15) - Desenvolva o comando necessário para selecionar todas as informações da tabela musica.
+
+16) - Desenvolva o comando necessário para selecionar todas as informações da tabela gravadora.
+
+17) - Desenvolva o comando necessário para selecionar todas as informações da tabela cd.
+
+18) - Desenvolva o comando necessário para selecionar todas as informações da tabela faixa.
+
+19) - Desenvolva o comando necessário para selecionar todas as informações da tabela musica_autor.
+
+20) - Desenvolva o comando necessário para selecionar todas as informações da tabela cd_categoria.
+
+21) - Desenvolva o comando necessário para remover as as informações da tabela autor.
+
+22) - Desenvolva o comando necessário para remover as as informações da tabela musica.
+
+23) - Desenvolva o comando necessário para remover as as informações da tabela gravadora.
